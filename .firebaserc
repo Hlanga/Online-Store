@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "online-store-11694": {
+      "hosting": {
+        "online-store": [
+          "online-store-11694"
+        ]
+      }
+    }
+  }
+}
